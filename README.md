@@ -1,2 +1,3 @@
-# infracost-gitlab-ci
-GitLab CI examples for Infracost. Shows cloud cost estimates for Terraform in  GitLab merge requests
+# Infracost GitLab CI
+
+See [gitlab.com/infracost/infracost-gitlab-ci](https://gitlab.com/infracost/infracost-gitlab-ci) for this repository.
